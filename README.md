@@ -16,7 +16,7 @@ Si responde bien la alternativa se sombrea en verde y si responde mal la alterna
 Después de responder todas las preguntas se mostrará cuantos preguntas respondiste bien y cuantas mal
 <h2>💻 Deploy</h2>
 
-[Quizz](https://angelveliz1837.github.io/Quizz/index.html)
+[Quizz](https://angelveliz1837.github.io/quizz/index.html)
 
 <h2>👨🏻‍💻 Requerimientos</h2>
 <ul>
